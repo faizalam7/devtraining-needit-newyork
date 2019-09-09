@@ -205,10 +205,10 @@
         <sys_created_by/>
         <sys_created_on>2019-07-30 15:37:13</sys_created_on>
         <sys_id>3257df741b333300f9a731d7dc4bcbeb</sys_id>
-        <sys_mod_count/>
+        <sys_mod_count>0</sys_mod_count>
         <sys_recorded_at>16c438740280000000</sys_recorded_at>
-        <sys_updated_by/>
-        <sys_updated_on/>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-09-09 09:15:58</sys_updated_on>
         <type>Choice list</type>
         <update_guid>fe57df745b33330056838b26baecdfea</update_guid>
         <update_guid_history>fe57df745b33330056838b26baecdfea:-2102025764</update_guid_history>
